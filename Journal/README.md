@@ -20,3 +20,8 @@ Realicé el video sobre cómo utilizar de forma básica Gimp e Inkscape para hac
 Hice el video de "Nunca pieras un archivo de nuevo" con un enfoque al panorama general de las herramientas para respaldar información.
 
 Hice video sobre sincronización smarphone con PC y PC con PC
+
+## 2024-03-25
+
+Hice el video de tutorial de soldadura
+
