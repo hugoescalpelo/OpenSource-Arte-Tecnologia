@@ -25,3 +25,6 @@ Hice video sobre sincronización smarphone con PC y PC con PC
 
 Hice el video de tutorial de soldadura
 
+## 2024-03-27
+
+Hice el video de Electrónica básica parte 1.
