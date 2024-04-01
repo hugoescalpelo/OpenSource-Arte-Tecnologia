@@ -28,3 +28,7 @@ Hice el video de tutorial de soldadura
 ## 2024-03-27
 
 Hice el video de Electrónica básica parte 1.
+
+## 2024-03-31
+
+Hice el video correspondiente a la primera parte de Electricidad en Electrónica Básica
