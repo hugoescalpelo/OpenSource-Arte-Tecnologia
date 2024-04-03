@@ -16,3 +16,6 @@ Cuando la electricidad circula a traves de un conductor, se genera un campo magn
 
 Cualquier conductor puede ser una antena emisora o receptora de un campo electromagnético.
 
+Corriente continua es la que circula en un solo sentido en un conductor. La corriente directa es la que mantiene su amplitud constante. La corriente alterna cambia la dirección en la que viaja en el conductor y por lo tanto su amplitud.
+
+![](https://github.com/hugoescalpelo/OpenSource-Arte-Tecnologia/blob/main/Imagenes/Eletr%C3%B3nica%20b%C3%A1sica/Electricidad/Corriente%20continua.jpg?raw=true)
