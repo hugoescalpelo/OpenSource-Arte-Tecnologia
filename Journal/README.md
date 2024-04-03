@@ -32,3 +32,7 @@ Hice el video de Electrónica básica parte 1.
 ## 2024-03-31
 
 Hice el video correspondiente a la primera parte de Electricidad en Electrónica Básica
+
+## 2024-04-02
+
+Estoy haciendo la segunda parte de Electricidad
