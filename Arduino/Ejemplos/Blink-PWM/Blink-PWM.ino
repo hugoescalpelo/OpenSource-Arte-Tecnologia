@@ -24,7 +24,7 @@
  */
 
 #define LED_PIN 3       // Define el pin del LED como el pin número 3 en la placa Arduino.
-#define BRIGHTNESS 5   // Define el porcentaje de brillo inicial del LED como 50%.
+#define BRIGHTNESS 50   // Define el porcentaje de brillo inicial del LED como 50%.
 
 void setup() {
     pinMode(LED_PIN, OUTPUT); // Configura el pin del LED como salida para usar PWM.
@@ -34,4 +34,6 @@ void loop() {
     int pwmValue = map(BRIGHTNESS, 0, 100, 0, 255); // Mapea el porcentaje de brillo a un valor PWM.
     analogWrite(LED_PIN, pwmValue); // Establece la intensidad del LED con el valor PWM calculado.
     delay(1000);                    // Mantiene el LED en el estado actual durante 1 segundo.
+    digitalWrite(LED_PIN, LOW);  // Apaga el LED.
+    delay(5000);                 // Mantiene el LED apagado durante 1000 milisegundos (1 segundo).
 }
