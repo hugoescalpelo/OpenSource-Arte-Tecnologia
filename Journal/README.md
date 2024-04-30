@@ -36,3 +36,11 @@ Hice el video correspondiente a la primera parte de Electricidad en Electrónica
 ## 2024-04-02
 
 Estoy haciendo la segunda parte de Electricidad
+
+## 2024-04-14
+
+Estoy haciendo el video sobre cómo prender cargas grandes
+
+## 2024-04-29
+
+Estoy haciendo el video sobre Potencia eléctrica

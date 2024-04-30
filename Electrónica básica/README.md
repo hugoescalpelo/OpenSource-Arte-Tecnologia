@@ -35,3 +35,19 @@ Tratar de no experimentar si no sabemos lo que estamos haciendo
 ---
 
 Existen fuentes de voltaje y fuentes de corriente.
+
+### Potencia
+Es la relacón matemática entre voltaje y corriente. P = VI
+
+La podemos entender como el trabajo realizado y es importante porque representa el consumo total eléctrico
+ 
+- Luz
+    - Diferenciar Potencia eléctrica de potencia de luz
+- Audio
+    - Diferenciar PMPO (percerpcion) de potencia real (RMS)
+- Motores
+    - Capacidad de trabajo mecanico contra electrico
+- Fuentes
+    - Capacidad doble
+
+La potencia de un fenómeno físico es diferente a la potencia eléctrica
