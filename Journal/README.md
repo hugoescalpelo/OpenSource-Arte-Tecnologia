@@ -44,3 +44,7 @@ Estoy haciendo el video sobre cómo prender cargas grandes
 ## 2024-04-29
 
 Estoy haciendo el video sobre Potencia eléctrica
+
+## 2024-0502
+
+Estoy haciendo el video de Stable Difussion
